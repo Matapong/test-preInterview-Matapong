@@ -1,0 +1,4 @@
+D:\After\TestPerSec\TestPerSec\TestPerSec\bin\TestPerSec.dll
+D:\After\TestPerSec\TestPerSec\TestPerSec\bin\TestPerSec.pdb
+D:\After\TestPerSec\TestPerSec\TestPerSec\obj\Debug\TestPerSec.dll
+D:\After\TestPerSec\TestPerSec\TestPerSec\obj\Debug\TestPerSec.pdb
